@@ -8,8 +8,9 @@ markmap:
 ## Syllabus
 ### Course Description
   This course provides a broad introduction to Artificial Intelligence in the context of real-world application. The course covers both fundamental concepts in AI, as well as applied work in areas such as machine learning and real-life case study to demonstrate AI applications in the physical world. Ethical considerations in AI are also highlighted to give students the awareness of how AI could impact the humans and the society. 
-### Prerequisites (all of)
-  - One of:
+### Prerequisites
+- All of
+  - One of
     - COMP 111
     - ITE C136
   - MATH 215
