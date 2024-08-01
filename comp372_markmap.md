@@ -4,13 +4,24 @@ markmap:
   colorFreezeLevel: 2
 ---
 
+
 ## Syllabus
+- 
 
 - [Website](https://markmap.js.org/)
 - [GitHub](https://github.com/gera2ld/markmap)
 
 ## Units
-
+- Unit 1
+  - Unit Outcomes
+    - 1
+    - 2
+    - 3
+  - 
+    
+       
+- Unit 2
+- Unit 3
 - [coc-markmap](https://github.com/gera2ld/coc-markmap) for Neovim
 - [markmap-vscode](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode) for VSCode
 - [eaf-markmap](https://github.com/emacs-eaf/eaf-markmap) for Emacs
