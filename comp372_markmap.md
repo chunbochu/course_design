@@ -6,12 +6,12 @@ markmap:
 ---
 
 ## Syllabus
-- **Course Description**
+### Course Description**
   This course provides a broad introduction to Artificial Intelligence in the context of real-world application. The course covers both fundamental concepts in AI, as well as applied work in areas such as machine learning and real-life case study to demonstrate AI applications in the physical world. Ethical considerations in AI are also highlighted to give students the awareness of how AI could impact the humans and the society. 
-- **Prerequisites**
+### Prerequisites**
   - COMP 111
   - MATH 215
-- **Textbooks**
+### Textbooks**
   - text1[link](https://github.com/gera2ld/markmap)
 
 ## Units
@@ -20,11 +20,15 @@ markmap:
     - 1
     - 2
     - 3
-  - 
+  - Assignments
+    - [Homework 1](#hw1)
 
 - [coc-markmap](https://github.com/gera2ld/coc-markmap) for Neovim
 - [markmap-vscode](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode) for VSCode
 - [eaf-markmap](https://github.com/emacs-eaf/eaf-markmap) for Emacs
+
+## Assignments
+- <a name ="hw1">Homework 1</a>
 
 ## Features
 
