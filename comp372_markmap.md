@@ -6,11 +6,19 @@ markmap:
 ---
 
 ## Syllabus
+### Course Title
+Introduction to Artificial Intelligence
 ### Course Description
   This course provides a broad introduction to Artificial Intelligence in the context of real-world application. The course covers both fundamental concepts in AI, as well as applied work in areas such as machine learning and real-life case study to demonstrate AI applications in the physical world. Ethical considerations in AI are also highlighted to give students the awareness of how AI could impact the humans and the society. 
+### Course Outcomes
+Upon successful completion of this course, you should be able to:
+- Define and explain the fundamental concepts of artificial intelligence, including agents, search, knowledge representation, machine learning, and ethics.
+- Apply AI techniques to solve a variety of real-world problems.
+- Evaluate the strengths and weaknesses of different AI approaches.
+- Identify and discuss the ethical implications of AI development and use.
 ### Prerequisites
-- All of
-  - One of
+- All of these
+  - One of these
     - COMP 111
     - ITE C136
   - MATH 215
@@ -18,12 +26,17 @@ markmap:
   - text1[link](https://github.com/gera2ld/markmap)
 
 ## Units
-- Unit 1
-  - Unit Outcomes
-    - 1
-    - 2
-    - 3
-  - Assignments
+### Unit 1
+  - Unit Preparation
+    Upon completion of this module, you should be able to:
+    - Learning Outcomes
+      - 1
+      - 2
+      - 3
+    - Reading & Preparation
+    Here are the resources you need to prepare for this module:
+      - Read chapters...
+  - Assignment
     - [Homework 1](#hw1)
 
 - [coc-markmap](https://github.com/gera2ld/coc-markmap) for Neovim
@@ -32,9 +45,10 @@ markmap:
 
 ## Assignments
 ### <a name ="hw1">Homework 1</a>
-- Details will be provided on Ed
+- Details will be provided on Ed.
 - Points: 50
 - Due date:
+- Submitting: a file upload
 ### <a name ="hw2">Homework 2</a>
 - Details will be provided on Ed
 - Points: 80
