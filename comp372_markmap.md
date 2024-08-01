@@ -2,14 +2,17 @@
 title: COMP327
 markmap:
   colorFreezeLevel: 2
+  maxWidth: 300
 ---
 
-
 ## Syllabus
-- 
-
-- [Website](https://markmap.js.org/)
-- [GitHub](https://github.com/gera2ld/markmap)
+- **Course Description**
+  This course provides a broad introduction to Artificial Intelligence in the context of real-world application. The course covers both fundamental concepts in AI, as well as applied work in areas such as machine learning and real-life case study to demonstrate AI applications in the physical world. Ethical considerations in AI are also highlighted to give students the awareness of how AI could impact the humans and the society. 
+- **Prerequisites**
+  - COMP 111
+  - MATH 215
+- **Textbooks**
+  - text1[link](https://github.com/gera2ld/markmap)
 
 ## Units
 - Unit 1
@@ -18,10 +21,7 @@ markmap:
     - 2
     - 3
   - 
-    
-       
-- Unit 2
-- Unit 3
+
 - [coc-markmap](https://github.com/gera2ld/coc-markmap) for Neovim
 - [markmap-vscode](https://marketplace.visualstudio.com/items?itemName=gera2ld.markmap-vscode) for VSCode
 - [eaf-markmap](https://github.com/emacs-eaf/eaf-markmap) for Emacs
