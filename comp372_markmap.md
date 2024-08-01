@@ -6,12 +6,14 @@ markmap:
 ---
 
 ## Syllabus
-### Course Description**
+### Course Description
   This course provides a broad introduction to Artificial Intelligence in the context of real-world application. The course covers both fundamental concepts in AI, as well as applied work in areas such as machine learning and real-life case study to demonstrate AI applications in the physical world. Ethical considerations in AI are also highlighted to give students the awareness of how AI could impact the humans and the society. 
-### Prerequisites**
-  - COMP 111
+### Prerequisites (all of)
+  - One of:
+    - COMP 111
+    - ITE C136
   - MATH 215
-### Textbooks**
+### Textbooks
   - text1[link](https://github.com/gera2ld/markmap)
 
 ## Units
@@ -28,8 +30,14 @@ markmap:
 - [eaf-markmap](https://github.com/emacs-eaf/eaf-markmap) for Emacs
 
 ## Assignments
-- <a name ="hw1">Homework 1</a>
-
+### <a name ="hw1">Homework 1</a>
+- Details will be provided on Ed
+- Points: 50
+- Due date:
+### <a name ="hw2">Homework 2</a>
+- Details will be provided on Ed
+- Points: 80
+- Due date:
 ## Features
 
 Note that if blocks and lists appear at the same level, the lists will be ignored.
